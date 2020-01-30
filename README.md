@@ -3,3 +3,5 @@ Docker compose file for setting up mysql and phpmyadmin for local dev environmen
 
 USAGE:
 `docker compose up`
+
+http://{{HOST}}:8080/index.php
